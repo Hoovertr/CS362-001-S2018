@@ -1,4 +1,8 @@
 /target/
 /bin
 .gitignore
+/.metadata
+/.settings
+/bin/
+.classpath
 
