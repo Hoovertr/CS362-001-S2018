@@ -1,8 +1,7 @@
 /target/
-/bin
+/bin/
 .gitignore
 /.metadata
 /.settings
-/bin/
 .classpath
 
